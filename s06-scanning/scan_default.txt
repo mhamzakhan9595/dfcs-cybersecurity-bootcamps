@@ -1,0 +1,1 @@
+# Nmap 7.991 scan initiated Sat Nov  7 09:34:30 2026 as: /usr/lib/nmap/nmap --privileged -oN scan_default.txt 192.168.133.128

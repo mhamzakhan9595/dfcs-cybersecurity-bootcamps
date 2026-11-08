@@ -1,0 +1,1 @@
+# Nmap 7.991 scan initiated Sat Nov  7 10:05:57 2026 as: /usr/lib/nmap/nmap -sV -p 21,22,25,80,139,445,3306 -T4 -oN scan_versions.txt 192.168.133.128
