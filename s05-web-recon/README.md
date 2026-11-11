@@ -36,14 +36,12 @@
 * **Direct Phone:** +1 (555) 019-8372
 * **Stop Procedure:** If the client requests a halt to testing, the tester will immediately cease all active scans, disconnect the VPN, and confirm the stop in writing via email.
 
----
 
 
 
 
 
 
----
 ## Task 2: Dork Report
 
 **Target Domain:** `github.com` (Public domain, used for educational demonstration)  
@@ -89,7 +87,6 @@
 
 
 
----
 
 ## Task 3: Subdomain Reconciliation
 
@@ -141,7 +138,6 @@ Because the full list contains 14,145 entries, only a sample is shown here:
 
 
 
----
 
 ## Task 4: Scanner Comparison
 
